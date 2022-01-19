@@ -1,0 +1,5 @@
+INSTRUCTIONS
+
+1. Unzip SideScrollerV(version#).zip
+2. Open SideScrollerV(versioin#).zip
+3. Open SideScroller.uproject
